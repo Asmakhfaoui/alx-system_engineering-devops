@@ -1,2 +1,2 @@
-Hello, World
-Second line
+echo "Hello World"
+#!/bin/bash
